@@ -4,9 +4,11 @@
 
 # Welcome to Civiwiki!
 
+
 We are an open source, non-profit community, working to develop a democratic engagement web system.
 
 ## Why CiviWiki?
+
 
 * **Democratically Contributed Media.** As the name CiviWiki implies, our core content will be contributed by volunteers on our Wiki. Our topic format is modular. The structure allows both a community of volunteers to collaborate on a single political issue, and reserves space for dissenting opinions.
 * **Personalized Policy Feed.** CiviWiki intelligently personalizes users' feed in two meaningful ways. First, the issues promoted to users' feed will be personalized to the user's expressed interests, and the timeliness of the issue. Second, the structure of the issue topics break policy positions into bite-sized contentions we call Civies. Each Civi is logically related to the rest of the topic. Based on the user's support, opposition, or neutrality to each Civi, CiviWiki promotes different relevant content.
